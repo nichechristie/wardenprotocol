@@ -13,7 +13,7 @@
     "build": "tsc --build"
   },
   "dependencies": {
-    "@biconomy/abstractjs": "^0.3.0",
+    "@biconomy/abstractjs": "^1.0.0",
     "@rhinestone/module-sdk": "^0.2.7",
     "@wagmi/core": "^2.14.6",
     "@wardenprotocol/wardenjs": "0.0.11",

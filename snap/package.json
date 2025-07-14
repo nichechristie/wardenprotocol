@@ -28,7 +28,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@metamask/keyring-api": "^4.0.1",
+    "@metamask/keyring-api": "^4.0.2",
     "@metamask/snaps-sdk": "^3.0.1",
     "buffer": "^6.0.3",
     "uuid": "^9.0.1"

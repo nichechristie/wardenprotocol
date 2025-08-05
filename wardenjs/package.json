@@ -64,7 +64,7 @@
   "dependencies": {
     "@cosmjs/amino": "0.32.4",
     "@cosmjs/math": "^0.32.4",
-    "@cosmjs/proto-signing": "0.32.4",
+    "@cosmjs/proto-signing": "0.34.0",
     "@cosmjs/stargate": "0.32.4",
     "@cosmjs/tendermint-rpc": "^0.32.4",
     "@cosmology/lcd": "^0.14.4",

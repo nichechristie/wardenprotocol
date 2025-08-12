@@ -125,7 +125,7 @@
 		"unstorage": "1.12.0",
 		"use-debounce": "^9.0.4",
 		"vaul": "^0.9.0",
-		"viem": "2.12.0",
+		"viem": "2.33.0",
 		"vite-plugin-node-polyfills": "^0.21.0",
 		"wagmi": "2.14.13",
 		"web3": "^4.3.0",

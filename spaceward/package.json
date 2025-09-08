@@ -13,7 +13,7 @@
 	},
 	"dependencies": {
 		"@bufbuild/protobuf": "^1.6.0",
-		"@chain-registry/types": "^0.18.1",
+		"@chain-registry/types": "^0.50.194",
 		"@chainsafe/libp2p-gossipsub": "^13.0.0",
 		"@chainsafe/libp2p-noise": "^15.0.0",
 		"@chainsafe/libp2p-yamux": "^6.0.1",
